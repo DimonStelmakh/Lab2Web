@@ -1,1 +1,1 @@
-module Lab1Web
+module Lab2Web
